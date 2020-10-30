@@ -9,7 +9,7 @@ docker start -i mycontainer
 ```
 [same here](https://bbs.archlinux.org/viewtopic.php?id=206379)
 
-The solution to this is to remove tc.log files (ex: with docker exec rm tc.log).
+The solution to this is to remove tc.log files (ex: with docker exec rm tc.log).<br />
 Unfortunately, docker exec needs a running container, which is not the case here.<br />
 
 ## The solution
