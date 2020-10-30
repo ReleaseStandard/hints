@@ -110,3 +110,7 @@ function chcmd() {
   done
 }
 ```
+To run the shell, replace PUT_YOUR_ID_HERE by your id, then use:
+```
+chcmd
+```
