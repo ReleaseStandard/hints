@@ -1,4 +1,4 @@
-## First a short description of the issue
+## The issue
  - on the container running linuxserver/mariadb.
  - i could not start the container anymore, because of mysql start crash.
 ```
