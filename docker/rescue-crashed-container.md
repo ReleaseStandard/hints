@@ -1,6 +1,8 @@
+This is a guide on how to rescue a crashed docker container, focused on one example : linuxserver, but could be applied to others with few changes.
+
 ## The issue
  - on the container running linuxserver/mariadb.
- - i could not start the container anymore, because of mysql start crash.
+ - i could not start the container anymore, because of mysql start crash (no docker exec !).
 ```
 docker start -i mycontainer
 [Note] Recovering after a crash using tc.log
