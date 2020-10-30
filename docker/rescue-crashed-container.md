@@ -1,4 +1,4 @@
-This is a guide on how to rescue a crashed docker container, focused on one example : linuxserver, but could be applied to others with few changes.
+This is a guide on how to rescue a crashed docker container, focused on one example : linuxserver/mariadb, but could be applied to others with few changes.
 
 ## The issue
  - on the container running linuxserver/mariadb.
