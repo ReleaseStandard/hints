@@ -70,6 +70,7 @@ nano config.*.json
 "Args":["bash","-c","find / -name 'tc.log'"]
 systemctl restart docker
 systemctl start -i mycontainer
+nano config.*.json
 "Args":["bash","-c","rm /var/lib/mysql/tc.log"]
 systemctl restart docker
 systemctl start -i mycontainer
