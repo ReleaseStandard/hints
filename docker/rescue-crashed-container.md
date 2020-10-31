@@ -109,7 +109,7 @@ function chcmd() {
   while true ; do
      read -p "> ";
      change_cmd $REPLY;
-     docker start -i mycontainer;
+     docker start -i PUT_YOUR_CONTAINER_NAME_OR_ID_HERE;
   done
 }
 ```
