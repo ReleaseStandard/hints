@@ -109,7 +109,7 @@ function chcmd() {
   while true ; do
      read -p "> ";
      change_cmd $REPLY;
-     docker start -i phonewikidb;
+     docker start -i mycontainer;
   done
 }
 ```
