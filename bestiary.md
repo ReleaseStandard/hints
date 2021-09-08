@@ -1,4 +1,5 @@
-BEGINNER LEVEL
+🍀 🍀 BEGINNER LEVEL 🍀 🍀
+
 
 This guide help you and I hope you, cases are classified by 😈 : evil (never do that), 😶 : maybe we're secure.
 
@@ -7,8 +8,8 @@ It's a melt of behaviour to adopt (human) and process to apply.
 This page aim to give a start point for those which are not sure on what they can do about **security** on computer (not **privacy**)
 
 
-Secure browser:
- - https://us-cert.cisa.gov/publications/securing-your-web-browser
+### Secure browser
+ - [cisa](https://us-cert.cisa.gov/publications/securing-your-web-browser)
  - extensions:<br />
       - https every where prevent transmission over insecure http channel:
         - ~~hsts~~
@@ -23,7 +24,7 @@ Secure browser:
       - 😈 passwords without master password
       - 😶 passwords with master password
 
-Secure com:
+### Secure com
   - SSL/TLS
     - 😶 Warning when installing new root CA
     - 😶 SSL pinning is a great feature but is not enough (reset after each cache erase) maybe a random [third party checker](https://releasestandard.github.io/hints/thirtPartyChecker), or check on a complete different network (eg vpn)
