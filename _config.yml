@@ -2,5 +2,10 @@ theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
  
-source: /hint/
 incremental: true
+name: ReleaseStandard's blog
+description: Various stuff not well organized
+url: https://github.com/ReleaseStandard/hints/
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
