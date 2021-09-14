@@ -5,7 +5,7 @@ Give you some solution to issues.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="/hints/{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
