@@ -5,6 +5,10 @@ plugins:
 incremental: true
 name: ReleaseStandard's blog
 description: Various stuff not well organized
-feed_items: 10
-feed_update_period: daily
-feed_update_frequency: 1
+feed:
+  posts_limit: 20
+
+include:  
+  - _pages
+         
+tags:
