@@ -1,3 +1,6 @@
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
+ 
+source: /hint/
+incremental: true
