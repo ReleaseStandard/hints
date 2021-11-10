@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Rescue crashed docker container"
 author: "Release Standard"
 ---
